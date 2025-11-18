@@ -1,8 +1,8 @@
 # Entrega final DSAW:
 
-## URL Frontend: SU_URL_AQUÍ
-## URL Backend: SU_URL_AQUÍ
-## Nombre estudiante 1: 
+## URL Frontend: wheels-front-navy.vercel.app
+## URL Backend: wheels-back-production.up.railway.app
+## Nombre estudiante 1: Ricardo Plazas
 ## Nombre estudinate 2:
 
 # MODIFIQUE ESTE README AGREGANDO LA INFORMACIÓN QUE CONSIDERE PERTINENTE
